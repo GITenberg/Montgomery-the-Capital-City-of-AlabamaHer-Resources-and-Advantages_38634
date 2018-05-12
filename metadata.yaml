@@ -1,0 +1,25 @@
+_repo: Montgomery-the-Capital-City-of-AlabamaHer-Resources-and-Advantages_38634
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38634-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Montgomery Real Estate Agents' Association, Montgomery, Ala.
+    gutenberg_agent_id: '41056'
+    url: http://www.gutenberg.org/2009/agents/41056
+description: ''
+gutenberg_issued: '2012-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38634'
+  lccn: tmp96008483
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F296'
+- !lcsh 'Montgomery (Ala.) -- Description and travel'
+title: 'Montgomery, the Capital City of Alabama: Her Resources and Advantages'
+url: http://www.gutenberg.org/ebooks/38634
